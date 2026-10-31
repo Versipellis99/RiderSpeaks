@@ -185,7 +185,7 @@ export default function Results() {
   return (
     <section className="section section--dark" id="results">
       <div className="container">
-        <h2>Результаты учеников</h2>
+        <h2>Отзывы учеников</h2>
 
         <ul className="results__stats">
           <li>
